@@ -68,8 +68,7 @@ font-family: "Montserrat-Light",sans-serif;
   text-align: center;
 }
 .feature-padding{
-  margin-top: 50px;
-  margin-bottom: 50px;
+
   padding: 4.5%;
 }
 /* testimonials section */
@@ -120,3 +119,7 @@ h5{
   margin: 0;
   padding: 3rem;
 }
+.padding-fix{
+  padding: 1% 15%;
+}
+-bar
